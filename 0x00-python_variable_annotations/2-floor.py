@@ -5,6 +5,5 @@ import math
 
 
 def floor(n: float) -> int:
-    """ Returns float flooring """
+    """ Returns the floor of float number """
     return math.floor(n)
-	
