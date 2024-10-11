@@ -7,3 +7,4 @@ import math
 def floor(n: float) -> int:
     """ Returns float flooring """
     return math.floor(n)
+	
