@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-""" 
-asynchronous generator function that yields random float 
+"""
+asynchronous generator function that yields random float
 between 0 and 10 after one second delay for 10 iterations
 """
 import random
